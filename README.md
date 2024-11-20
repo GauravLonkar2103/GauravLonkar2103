@@ -1,4 +1,8 @@
-# 💫 Hey there! Gaurav here
+# <p align="center"> 👋 Hi, I'm Gaurav Lonkar!</p>
+<p align="center">Aspiring Data Scientist | Machine Learning Enthusiast | Future Deep Learning Explorer</p>
+<br>
+
+
 🎓 Currently learning Data Science and Machine Learning<br>🌱 Future goals: Dive into Deep Learning and explore Generative AI<br>💡 Passionate about solving real-world problems with data and AI<br>📖 Lifelong learner, excited to stay at the cutting edge of technology
 
 
